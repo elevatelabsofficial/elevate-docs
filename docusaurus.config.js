@@ -21,7 +21,9 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'elevatelabsofficial', // Usually your GitHub org/user name.
-  projectName: 'elevate', // Usually your repo name.
+  // projectName: 'elevate-docs', // Usually your repo name.
+  projectName: 'elevatelabsofficial.github.io',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
