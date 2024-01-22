@@ -13,8 +13,8 @@ const config = {
   favicon: 'img/logo-rond_v02.png',
 
   // Set the production url of your site here
-  url: 'https://ghostnet.elevate-labs.fr',
-  
+  url: 'https://elevatelabsofficial.github.io/elevate-docs/',
+
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -23,7 +23,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'elevatelabsofficial', // Usually your GitHub org/user name.
   // projectName: 'elevate-docs', // Usually your repo name.
-  projectName: 'elevatelabsofficial.github.io',
+  projectName: 'elevate-docs',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
